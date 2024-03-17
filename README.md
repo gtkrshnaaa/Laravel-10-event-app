@@ -1,4 +1,4 @@
-# Blog website with Laravel for learning purpose
+# Event website with Laravel for learning purpose
 
 ## Project setup
 
